@@ -9,3 +9,5 @@ Part 1 //Controllers
 0940 done changes in HelloWorldController in Controllers folder
 
 Part 2// views
+0946 - added Helloworld Folder and Index.cshtml in views folder
+0950-
