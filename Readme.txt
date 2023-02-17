@@ -23,3 +23,13 @@ Part 4//data
 1011 -done all changes in MagnetContext.cs
 1014 do some changes in startup.cs and appsetting.json
 
+Part 5// 
+1016 added new scarfolding item in controllers file
+1020 run commands(Add-Migration InitialCreate -Context MagnetsContext,
+Update-Database-Context MagnetsContext)
+
+Part 6 // Models
+1050 added SeedData.cs class in Models folder
+
+1141 added 10 entries of mangnetic properties
+
