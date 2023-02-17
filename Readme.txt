@@ -10,4 +10,10 @@ Part 1 //Controllers
 
 Part 2// views
 0946 - added Helloworld Folder and Index.cshtml in views folder
-0950-
+0950-do some changes in HelloWorldControllers and index.cshtml
+1001 - added Welcome.cshtml file in Views/HelloWorld 
+
+Part 3 // models
+1004 - added Magnet.cs in Models file
+
+
