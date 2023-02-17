@@ -17,3 +17,9 @@ Part 3 // models
 1004 - added Magnet.cs in Models file
 1007- done all changes in Movie.cs class in Model folder
 1008 installed package manager console
+
+Part 4//data
+1010 added MagnetContext.cs in data folder
+1011 -done all changes in MagnetContext.cs
+1014 do some changes in startup.cs and appsetting.json
+

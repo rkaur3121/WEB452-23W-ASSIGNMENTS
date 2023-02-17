@@ -33,7 +33,13 @@ namespace Magnets
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
-            services.AddRazorPages();
+            services.AddDbContext<MagnetContext>(options =>
+    options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddDbContext<MagnetsContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("MagnetsContext")));
+
+        
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
