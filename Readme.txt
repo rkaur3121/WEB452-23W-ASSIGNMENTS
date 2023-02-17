@@ -15,5 +15,5 @@ Part 2// views
 
 Part 3 // models
 1004 - added Magnet.cs in Models file
-
-
+1007- done all changes in Movie.cs class in Model folder
+1008 installed package manager console
