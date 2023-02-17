@@ -6,3 +6,6 @@ starting assignment at 0934
 
 Part 1 //Controllers
 0936 added HelloWorldController.cs in Controller folder
+0940 done changes in HelloWorldController in Controllers folder
+
+Part 2// views
