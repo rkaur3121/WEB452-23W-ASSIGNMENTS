@@ -10,6 +10,6 @@ namespace Magnets.Data
         {
         }
 
-        public DbSet<Magnet> Movie { get; set; }
+        public DbSet<Magnet> Magnet { get; set; }
     }
 }

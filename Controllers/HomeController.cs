@@ -22,8 +22,16 @@ namespace Magnets.Controllers
         {
             return View();
         }
-
+       
         public IActionResult Privacy()
+        {
+            return View();
+        }
+        public IActionResult Magnets()
+        {
+            return View();
+        }
+        public IActionResult AboutUs()
         {
             return View();
         }

@@ -1,5 +1,6 @@
 ﻿Author: Robindeep kaur 
 project name:Magnets
+2023-02-16
 0934 EST
 
 starting assignment at 0934
@@ -33,3 +34,4 @@ Part 6 // Models
 
 1141 added 10 entries of mangnetic properties
 
+part 7 //_layout.cshtml
