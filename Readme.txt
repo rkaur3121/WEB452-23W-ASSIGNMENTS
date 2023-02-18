@@ -105,7 +105,7 @@ After I created new assignment again
 
 
 did some changes in AboutUs.cshtml (just add one more heading)
-
+do styling in index.cshtml file
 
 
 
